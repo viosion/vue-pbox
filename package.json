@@ -1,0 +1,26 @@
+{
+  "name": "vue-pbox",
+  "version": "0.0.1",
+  "description": "Vue.js 2.0 pop window component.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viosion/vue-pbox.git"
+  },
+  "keywords": [
+    "vue",
+    "modal",
+    "popwin",
+    "overlay",
+    "dialog"
+  ],
+  "author": "Haibin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/viosion/vue-pbox/issues"
+  },
+  "homepage": "https://github.com/viosion/vue-pbox#readme"
+}

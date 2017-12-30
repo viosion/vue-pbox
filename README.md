@@ -1,2 +1,2 @@
 # vue-pbox
-Vue overlay component.
+Vue.js 2.x pop window component.
